@@ -206,7 +206,7 @@ blockquote {
 
 /* Interactivity */
 
-hidden {
+.hidden {
   display: none !important;
 }
 
